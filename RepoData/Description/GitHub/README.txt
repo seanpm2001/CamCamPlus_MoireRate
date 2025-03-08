@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+📷️📸️➕️🖥️🤳️💾️ THe official source repository for the CamCamPlus MoireRate extension, enabling high quality screen on screen recording, without all of the artifacts.
